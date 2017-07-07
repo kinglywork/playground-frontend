@@ -1,3 +1,5 @@
+This is a playground web app with React+Redux+Webpack+Babel.
+
 startup(in windows)：
 1. open cmd，goto current work folder
 2. run npm install，install all packages
