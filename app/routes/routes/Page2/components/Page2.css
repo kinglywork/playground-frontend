@@ -1,0 +1,6 @@
+@import '../../../../assets/common.css';
+@import 'assets/common2.css';
+
+.container{
+  border: 1px solid black;
+}
